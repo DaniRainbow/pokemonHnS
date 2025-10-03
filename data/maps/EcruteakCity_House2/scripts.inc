@@ -77,7 +77,7 @@ Ecruteak_Text_ThreeMon:
 	.string "ECRUTEAK was also home to three\n"
 	.string "POKéMON that raced around the town.\p"
 	.string "They were said to have been born\n"
-	.string "of water, lightning and fire.\p"
+	.string "of water, lightning, and fire.\p"
 	.string "But they could not contain their\n"
 	.string "excessive power.\p"
 	.string "So they say the three ran like the\n"
