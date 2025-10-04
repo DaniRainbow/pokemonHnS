@@ -4103,6 +4103,7 @@ const union {
         .REST = TRUE,
         .ATTRACT = TRUE,
         .OVERHEAT = TRUE,
+        .SHADOW_BALL = TRUE,
         .CUT = TRUE,
         .STRENGTH = TRUE,
         .ROCK_SMASH = TRUE,
@@ -5200,6 +5201,7 @@ const union {
         .FLASH = TRUE,
         .ROCK_SMASH = TRUE,
         .WHIRLPOOL = TRUE,
+        .WATERFALL = TRUE,
     } },
 
     [SPECIES_MISDREAVUS] = { .learnset = {
@@ -5566,6 +5568,7 @@ const union {
         .REST = TRUE,
         .ATTRACT = TRUE,
         .THIEF = TRUE,
+        .BULLET_SEED = TRUE,
         .CUT = TRUE,
         .STRENGTH = TRUE,
         .ROCK_SMASH = TRUE,
@@ -5889,6 +5892,7 @@ const union {
         .SURF = TRUE,
         .WATERFALL = TRUE,
         .WHIRLPOOL = TRUE,
+        .FLY = TRUE,
     } },
 
     [SPECIES_SKARMORY] = { .learnset = {
@@ -6567,6 +6571,7 @@ const union {
         .SECRET_POWER = TRUE,
         .REST = TRUE,
         .SKILL_SWAP = TRUE,
+        .BULLET_SEED = TRUE,
         .CUT = TRUE,
         .FLASH = TRUE,
     } },
@@ -10667,6 +10672,7 @@ const union {
         .CUT = TRUE,
         .STRENGTH = TRUE,
         .ROCK_SMASH = TRUE,
+        .FLY = TRUE,
     } }, 
         
     [SPECIES_HAPPINY] = { .learnset = {

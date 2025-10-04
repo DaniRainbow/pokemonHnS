@@ -586,6 +586,9 @@ u16 GetRandomMove(u16 input_move, u16 species);
 u8 GetRandomType(void);
 u8 EvolutionBlockedByEvoLimit(u16 species);
 
+//Moves learned on evolution
+u16 MonTryLearningNewMoveEvolution(struct Pokemon *mon, bool8 firstMove);
+
 void FixSavePokemon1(struct BoxPokemon *boxMon);
 
 #endif // GUARD_POKEMON_H
